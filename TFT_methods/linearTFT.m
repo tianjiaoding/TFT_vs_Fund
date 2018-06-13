@@ -1,4 +1,4 @@
-function [T,P1,P2,P3]=linearTFT(p1,p2,p3)
+ function [T,P1,P2,P3]=linearTFT(p1,p2,p3)
 %LINEARTFT Linear estimation of the TFT
 %
 %  Estimation of the trifocal tensor from triplets of corresponding image
